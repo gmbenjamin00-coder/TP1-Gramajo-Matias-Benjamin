@@ -91,13 +91,16 @@ background-color:burlywood;
  }
 
  .receta_style em:hover{
-color:rgb(236, 236, 136);
+color:rgb(255, 255, 255);
  }
 
  .receta_style h2{
     background-color: burlywood;
  }
 
+ .receta_style h2:hover{
+    color: rgb(255, 255, 255);
+ }
   /*Estilo de la página del horario*/
 
   .horario_style{
